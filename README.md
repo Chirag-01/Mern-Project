@@ -1,6 +1,6 @@
 # Expense Tracker (MERN)
 
-> Full stack expense tracker
+Chirag Lalwani
 
 ## Usage
 
